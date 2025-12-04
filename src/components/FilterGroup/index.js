@@ -49,7 +49,7 @@ const FilterGroup = props => {
           >
             <CategoryLogo
               style={{
-                color: activeCategoryId === category.id ? 'red' : 'inherit',
+                color: activeCategoryId === category.id ? 'reed' : 'inherit',
               }}
             />
             {category.name}
